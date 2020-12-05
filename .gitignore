@@ -1,0 +1,9 @@
+# ext to ignore
+*.log
+
+# files to ignore
+#.gitignore
+
+# folders to ignore
+.idea/
+venv_*/
